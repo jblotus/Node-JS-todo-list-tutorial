@@ -1,1 +1,7 @@
-document.write('Our Client side js is working');
+
+
+(function($) {  
+  $(document).ready(function() {
+    $('body').append('<p>Our client side js is working with jQuery</p>');  
+  });  
+})(jQuery);
