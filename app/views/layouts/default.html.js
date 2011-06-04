@@ -5,7 +5,8 @@
   <link rel="stylesheet" href="/css/style.css">
 </head>
 <body>
-	<h1>Todo list in Node</h1>
+  
+	{{{content_for_layout}}}
 	
 	<!-- Grab Google CDN's jQuery, with a protocol relative URL; fall back to local if offline -->
   <script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js"></script>
