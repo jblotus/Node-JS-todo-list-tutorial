@@ -1,7 +1,7 @@
 // in other modules
 var sys  = require('sys');
 var http = require('http');
-var url = require('url');
+var url  = require('url');
 
 //require custom dispatcher
 var dispatcher = require('./lib/dispatcher.js');
